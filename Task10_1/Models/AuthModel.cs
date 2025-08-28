@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Task10_1.Models
 {
-    internal static class AuthModel
+    public static class AuthModel
     {
         const string ValidUsername = "admin";
         const string ValidPassword = "12345";   
